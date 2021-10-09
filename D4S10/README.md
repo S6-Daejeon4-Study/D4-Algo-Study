@@ -34,34 +34,37 @@
 
 ### 이번주 목표문제 : 최소 1개 필수
 <table>
-  <th>
-    <tc> 출처 </tc>
-    <tc> 문제번호 </tc>
-    <tc> 문제명 </tc>
-    <tc> 난이도 </tc>
-    <tc> 링크 </tc>
-  </th>
+  <thead><tr>
+    <th> 출처 </th>
+    <th> 문제번호 </th>
+    <th> 문제명 </th>
+    <th> 난이도 </th>
+    <th> 링크 </th>
+    </tr>
+  </thead>
+  <tbody>
   <tr>
-    <tc> 백준 </tc>
-    <tc> 21610 </tc>
-    <tc> 마법사 상어와 비바라기 </tc>
-    <tc> 골드 5 </tc>
-    <tc> https://www.acmicpc.net/problem/21610 </tc>
+    <td> 백준 </td>
+    <td> 21610 </td>
+    <td> 마법사 상어와 비바라기 </td>
+    <td> 골드 5 </td>
+    <td> https://www.acmicpc.net/problem/21610 </td>
   </tr>
   <tr>
-    <tc> 프로그래머스 </tc>
-    <tc> 1830 </tc>
-    <tc> 브라이언의 고민 </tc>
-    <tc> 레벨 3 </tc>
-    <tc> https://programmers.co.kr/learn/courses/30/lessons/1830 </tc>
+    <td> 프로그래머스 </td>
+    <td> 1830 </td>
+    <td> 브라이언의 고민 </td>
+    <td> 레벨 3 </td>
+    <td> https://programmers.co.kr/learn/courses/30/lessons/1830 </td>
   </tr>
   <tr>
-    <tc> 프로그래머스 </tc>
-    <tc> 42584 </tc>
-    <tc> 주식가격 </tc>
-    <tc> 레벨 2 </tc>
-    <tc> https://programmers.co.kr/learn/courses/30/lessons/42584 </tc>
+    <td> 프로그래머스 </td>
+    <td> 42584 </td>
+    <td> 주식가격 </td>
+    <td> 레벨 2 </td>
+    <td> https://programmers.co.kr/learn/courses/30/lessons/42584 </td>
   </tr>
+     </tbody>
 </table>
 
 ## 3주차
