@@ -14,7 +14,7 @@
 
 ### 김유진
 <ul>
-  <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/commit/48f8ac48435e1b34ee3311899312e05542c0aa08" ></a>프로그래머스 12904 가장 긴 팰린드롬 level 3</li>
+  <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/commit/48f8ac48435e1b34ee3311899312e05542c0aa08" >프로그래머스 12904 가장 긴 팰린드롬</a></li>
 </ul> 
 
 ### 김응철
