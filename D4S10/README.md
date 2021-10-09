@@ -33,9 +33,36 @@
 개별적으로 다시 풀어보고 싶은 문제
 
 ### 이번주 목표문제 : 최소 1개 필수
-1. 백준 21610 마법사 상어와 비바라기 골드 5 https://www.acmicpc.net/problem/21610
-2. 프로그래머스 1830 브라이언의 고민 레벨 3 https://programmers.co.kr/learn/courses/30/lessons/1830
-3. 프로그래머스 42584 주식가격 레벨 2 https://programmers.co.kr/learn/courses/30/lessons/42584
+<table>
+  <th>
+    <tc> 출처 </tc>
+    <tc> 문제번호 </tc>
+    <tc> 문제명 </tc>
+    <tc> 난이도 </tc>
+    <tc> 링크 </tc>
+  </th>
+  <tr>
+    <tc> 백준 </tc>
+    <tc> 21610 </tc>
+    <tc> 마법사 상어와 비바라기 </tc>
+    <tc> 골드 5 </tc>
+    <tc> https://www.acmicpc.net/problem/21610 </tc>
+  </tr>
+  <tr>
+    <tc> 프로그래머스 </tc>
+    <tc> 1830 </tc>
+    <tc> 브라이언의 고민 </tc>
+    <tc> 레벨 3 </tc>
+    <tc> https://programmers.co.kr/learn/courses/30/lessons/1830 </tc>
+  </tr>
+  <tr>
+    <tc> 프로그래머스 </tc>
+    <tc> 42584 </tc>
+    <tc> 주식가격 </tc>
+    <tc> 레벨 2 </tc>
+    <tc> https://programmers.co.kr/learn/courses/30/lessons/42584 </tc>
+  </tr>
+</table>
 
 ## 3주차
 ### 일정 : 10/18 ~ 10/24
