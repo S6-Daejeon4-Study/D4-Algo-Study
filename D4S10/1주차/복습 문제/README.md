@@ -9,11 +9,13 @@
 <ul>
   <li><a href = ""> </a></li>
 </ul>  
+
 ### 김유진
 <ul>
   <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B2531_%EA%B9%80%EC%9C%A0%EC%A7%84.java" > 백준 15961 회전초밥 골드 2</a></li>
    <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B2810_%EA%B9%80%EC%9C%A0%EC%A7%84.java" > 백준 2810 컵홀더 브론즈 2</a></li>
-</ul>  
+</ul> 
+
 ### 김응철
 <ul>
   <li><a href = ""> </a></li>
