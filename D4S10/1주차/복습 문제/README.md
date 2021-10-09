@@ -68,6 +68,6 @@
 
 ### 황승연
 <ul>
-  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/S1210_%EC%82%AC%EB%8B%A4%EB%A6%AC_%ED%99%A9%EC%8A%B9%EC%97%B0.java"> </a>SWEA 1210 사다리</li>
-  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/S1218_%EA%B4%84%ED%98%B8%EC%A7%9D%EC%A7%93%EA%B8%B0_%ED%99%A9%EC%8A%B9%EC%97%B0.java"> </a>SWEA 1218 괄호짝짓기</li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/S1210_%EC%82%AC%EB%8B%A4%EB%A6%AC_%ED%99%A9%EC%8A%B9%EC%97%B0.java">SWEA 1210 사다리 </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/S1218_%EA%B4%84%ED%98%B8%EC%A7%9D%EC%A7%93%EA%B8%B0_%ED%99%A9%EC%8A%B9%EC%97%B0.java">SWEA 1218 괄호짝짓기 </a></li>
 </ul>  
