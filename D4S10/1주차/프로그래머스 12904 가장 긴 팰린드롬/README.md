@@ -49,7 +49,7 @@
 
 ### 우정연
 <ul>
-  <li><a href = ""> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2012904%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/B21611_%EA%B0%80%EC%9E%A5%EA%B8%B4%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC_%EC%9A%B0%EC%A0%95%EC%97%B0.java">프로그래머스 12904 가장 긴 팰린드롬 </a></li>
 </ul>  
 
 ### 정은이
