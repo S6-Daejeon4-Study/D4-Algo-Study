@@ -40,13 +40,14 @@
 ### 배나영
 
 <ul>
-  <li><a href = ""> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/3c4be53c4a0928ebad8eb060e41932ce363c8af8/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B14502_%EC%97%B0%EA%B5%AC%EC%86%8C_%EB%B0%B0%EB%82%98%EC%98%81.java">연구소</a></li>
+    <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/3c4be53c4a0928ebad8eb060e41932ce363c8af8/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B17406_%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B04_%EB%B0%B0%EB%82%98%EC%98%81.java">배열돌리기4</a></li>
 </ul>
 
 ### 송예인
 
 <ul>
-  <li><a href = ""> </a></li>
+  <li><a href = ""></a></li>
 </ul>
 
 ### 오서하
