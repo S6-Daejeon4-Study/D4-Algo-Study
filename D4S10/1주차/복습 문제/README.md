@@ -15,7 +15,7 @@
 ### 김석원
 
 <ul>
-  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B17478_%EA%B9%80%EC%84%9D%EC%9B%90_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%EB%AD%94%EA%B0%80%EC%9A%94.java"> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B17478_%EA%B9%80%EC%84%9D%EC%9B%90_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80%EB%AD%94%EA%B0%80%EC%9A%94.java"> 백준 17478 재귀함수가 뭔가요?</a></li>
 </ul>
 
 ### 김유진
