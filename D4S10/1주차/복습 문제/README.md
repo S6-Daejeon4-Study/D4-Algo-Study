@@ -64,8 +64,8 @@
 ### 우정연
 
 <ul>
-  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%9A%B0%EC%A0%95%EC%97%B0.java">백준 1987_알파벳 </a></li>
-  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%EC%9A%B0%EC%A0%95%EC%97%B0.java"> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%9A%B0%EC%A0%95%EC%97%B0.java">백준 1987 알파벳 </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/1%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%20%EB%AC%B8%EC%A0%9C/B1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%EC%9A%B0%EC%A0%95%EC%97%B0.java">백준 1992 쿼드트리</a></li>
 </ul>
 
 ### 정은이
