@@ -14,7 +14,7 @@
 
 ### 김유진
 <ul>
-  <li><a href ="" > 프로그래머스 42584 주식가격</a></li>
+  <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/2%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2042584%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/P42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EA%B9%80%EC%9C%A0%EC%A7%84.java" > 프로그래머스 42584 주식가격</a></li>
 </ul> 
 
 ### 김응철
