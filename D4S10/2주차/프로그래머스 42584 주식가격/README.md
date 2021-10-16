@@ -29,7 +29,7 @@
 
 ### 배나영
 <ul>
-  <li><a href = ""> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/9c5f0b51f3e64f25cf5e85b7c6a3863565e46328/D4S10/2%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2042584%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/P42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EB%B0%B0%EB%82%98%EC%98%81.java"> 프로그래머스 42584 주식가격 </a></li>
 </ul>  
 
 ### 송예인
