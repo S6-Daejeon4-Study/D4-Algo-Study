@@ -54,7 +54,7 @@
 
 ### 정은이
 <ul>  
-  <li><a href = ""> </a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/commit/dd8cf254d6eb1397b6ea10e6f036e877187bb9c2"> </a></li>
 </ul>  
 
 ### 허범
