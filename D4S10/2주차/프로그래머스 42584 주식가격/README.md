@@ -49,7 +49,7 @@
 
 ### 우정연
 <ul>
-  <li><a href = ""></a></li>
+  <li><a href = "https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/2%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2042584%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9/P42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%9A%B0%EC%A0%95%EC%97%B0.java"></a></li>
 </ul>  
 
 ### 정은이
