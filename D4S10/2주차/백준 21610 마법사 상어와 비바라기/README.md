@@ -49,7 +49,7 @@
 
 ### 우정연
 <ul>
-  <li></li>
+  <li><a href ="https://github.com/S6-Daejeon4-Study/D4-Algo-Study/blob/main/D4S10/2%EC%A3%BC%EC%B0%A8/%EB%B0%B1%EC%A4%80%2021610%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0/B21610_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0_%EC%9A%B0%EC%A0%95%EC%97%B0.java"> 백준 21610 마법사 상어와 비바라기</a></li>
 </ul>  
 
 ### 정은이
